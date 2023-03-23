@@ -1,0 +1,10 @@
+.mission {
+  height: 100vh;
+  background-color: rgb(153, 125, 125);
+  text-align: center;
+  padding: 56px;
+}
+.mission p {
+  font-size: 2rem;
+  font-weight: 300;
+}
